@@ -13,7 +13,7 @@ import streamlit as st
 CSV_URL = ""
 
 ROOT = Path(__file__).resolve().parent
-LOCAL_CSV = ROOT / "data" / "dividend_kings_latest.csv"
+LOCAL_CSV = ROOT / "data" / "dividend_aristocrats_latest.csv"
 
 
 @st.cache_data(ttl=3600)
@@ -56,7 +56,7 @@ def format_market_cap(value):
 
 
 st.set_page_config(
-    page_title="Dividend Kings Dashboard",
+    page_title="Dividend Aristocrats Dashboard",
     page_icon="👑",
     layout="wide",
 )
