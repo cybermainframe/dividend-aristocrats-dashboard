@@ -13,8 +13,8 @@ DATA_DIR = ROOT / "data"
 DATA_DIR.mkdir(exist_ok=True)
 
 TICKERS_FILE = ROOT / "tickers.txt"
-HISTORY_FILE = DATA_DIR / "dividend_kings_history.csv"
-LATEST_FILE = DATA_DIR / "dividend_kings_latest.csv"
+HISTORY_FILE = DATA_DIR / "dividend_aristocrats_history.csv"
+LATEST_FILE = DATA_DIR / "dividend_aristocrats_latest.csv"
 
 
 DEFAULT_TICKERS = [
