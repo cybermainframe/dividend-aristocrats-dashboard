@@ -107,3 +107,57 @@ date,ticker,name,sector,industry,price,low_52w,high_52w,pct_from_low,pct_from_hi
 2026-08-14,HRB,"H&R Block, Inc.",Consumer Cyclical,Personal Services,53.92,27.48,58.67,96.2,-8.1,3.41,9.48,6834910208.0,2026-08-17T09:24:03.390602+00:00
 2026-08-14,NUE,Nucor Corporation,Basic Materials,Steel,268.91,130.11,280.11,106.68,-4.0,83.0,21.46,61009141760.0,2026-08-17T09:24:14.150910+00:00
 2026-08-14,CAT,"Caterpillar, Inc.",Industrials,Farm & Heavy Construction Machinery,856.57,401.84,1071.47,113.16,-20.06,76.0,36.91,393743728640.0,2026-08-17T09:23:55.130019+00:00
+2026-08-21,MCD,McDonald's Corporation,Consumer Cyclical,Restaurants,270.95,260.96,337.56,3.83,-19.73,2.75,22.03,191735480320.0,2026-08-24T09:32:12.350982+00:00
+2026-08-21,NKE,"Nike, Inc.",Consumer Cyclical,Footwear & Accessories,40.76,38.86,78.03,4.89,-47.76,4.02,19.41,60467404800.0,2026-08-24T09:32:16.070694+00:00
+2026-08-21,TJX,"TJX Companies, Inc. (The)",Consumer Cyclical,Apparel Retail,140.53,133.13,169.47,5.56,-17.07,1.37,26.02,155244101632.0,2026-08-24T09:32:23.812818+00:00
+2026-08-21,PG,Procter & Gamble Company (The),Consumer Defensive,Household & Personal Products,144.68,134.62,164.77,7.47,-12.19,3.01,21.82,336298967040.0,2026-08-24T09:32:18.534301+00:00
+2026-08-21,PEP,"Pepsico, Inc.",Consumer Defensive,Beverages - Non-Alcoholic,143.48,133.4,168.19,7.55,-14.69,4.13,18.8,195993681920.0,2026-08-24T09:32:17.875717+00:00
+2026-08-21,LOW,"Lowe's Companies, Inc.",Consumer Cyclical,Home Improvement Retail,216.09,199.4,289.87,8.37,-25.45,2.31,18.28,,2026-08-24T09:32:11.113283+00:00
+2026-08-21,WMT,Walmart Inc.,Consumer Defensive,Discount Stores,103.7,94.62,134.84,9.59,-23.09,95.0,37.57,825252773888.0,2026-08-24T09:32:26.826123+00:00
+2026-08-21,PNR,Pentair plc.,Industrials,Specialty Industrial Machinery,64.4,57.35,112.57,12.29,-42.79,1.65,16.6,10278240256.0,2026-08-24T09:32:19.138604+00:00
+2026-08-21,RSG,"Republic Services, Inc.",Industrials,Waste Management,220.67,195.84,234.36,12.68,-5.84,1.21,31.26,67572019200.0,2026-08-24T09:32:20.318074+00:00
+2026-08-21,VFC,V.F. Corporation,Consumer Cyclical,Apparel Manufacturing,14.37,12.71,22.15,13.02,-35.13,2.51,20.83,5649343488.0,2026-08-24T09:32:26.249281+00:00
+2026-08-21,AFL,AFLAC Incorporated,Financial Services,Insurance - Life,116.07,102.52,129.57,13.22,-10.42,2.1,12.52,58190917632.0,2026-08-24T09:31:55.503207+00:00
+2026-08-21,AOS,A.O. Smith Corporation,Industrials,Specialty Industrial Machinery,63.08,53.83,80.92,17.18,-22.04,2.28,17.57,8573113344.0,2026-08-24T09:31:56.074928+00:00
+2026-08-21,IBM,International Business Machines,Technology,Information Technology Services,235.68,197.77,330.09,19.17,-28.6,2.87,20.91,222042226688.0,2026-08-24T09:32:07.432759+00:00
+2026-08-21,SHW,Sherwin-Williams Company (The),Basic Materials,Specialty Chemicals,346.59,289.19,376.08,19.85,-7.84,92.0,31.94,84137541632.0,2026-08-24T09:32:20.909234+00:00
+2026-08-21,KMB,Kimberly-Clark Corporation,Consumer Defensive,Household & Personal Products,109.31,91.17,128.11,19.9,-14.67,4.68,21.6,36354215936.0,2026-08-24T09:32:09.245493+00:00
+2026-08-21,SPGI,S&P Global Inc.,Financial Services,Financial Data & Stock Exchanges,431.29,359.36,524.87,20.02,-17.83,90.0,26.25,127144296448.0,2026-08-24T09:32:21.491335+00:00
+2026-08-21,ITW,Illinois Tool Works Inc.,Industrials,Specialty Industrial Machinery,282.29,234.38,301.92,20.44,-6.5,2.44,25.57,80396197888.0,2026-08-24T09:32:08.027923+00:00
+2026-08-21,CHD,"Church & Dwight Company, Inc.",Consumer Defensive,Household & Personal Products,98.8,80.29,105.37,23.05,-6.24,1.24,31.67,23435747328.0,2026-08-24T09:31:59.611219+00:00
+2026-08-21,NEE,"NextEra Energy, Inc.",Utilities,Utilities - Regulated Electric,83.65,67.81,98.03,23.36,-14.67,2.98,18.8,174492090368.0,2026-08-24T09:32:15.462317+00:00
+2026-08-21,ESS,"Essex Property Trust, Inc.",Real Estate,REIT - Residential,289.0,233.85,303.35,23.58,-4.73,3.58,45.02,19921604608.0,2026-08-24T09:32:04.403566+00:00
+2026-08-21,CL,Colgate-Palmolive Company,Consumer Defensive,Household & Personal Products,91.08,73.22,98.15,24.39,-7.21,2.33,35.86,72606498816.0,2026-08-24T09:32:00.278259+00:00
+2026-08-21,MO,"Altria Group, Inc.",Consumer Defensive,Tobacco,66.09,53.01,77.06,24.68,-14.24,6.42,13.91,110353367040.0,2026-08-24T09:32:14.845454+00:00
+2026-08-21,MKC,"McCormick & Company, Incorporat",Consumer Defensive,Packaged Foods,55.41,44.42,71.13,24.75,-22.1,3.47,9.22,14897064960.0,2026-08-24T09:32:13.532113+00:00
+2026-08-21,SYY,Sysco Corporation,Consumer Defensive,Food Distribution,84.1,67.23,90.56,25.09,-7.14,2.62,22.98,40245518336.0,2026-08-24T09:32:22.669985+00:00
+2026-08-21,MA,Mastercard Incorporated,Financial Services,Credit Services,580.63,463.74,598.04,25.21,-2.91,60.0,31.96,508637642752.0,2026-08-24T09:32:11.723591+00:00
+2026-08-21,GD,General Dynamics Corporation,Industrials,Aerospace & Defense,384.29,305.43,400.0,25.82,-3.93,1.66,23.42,103972421632.0,2026-08-24T09:32:05.574192+00:00
+2026-08-21,CTAS,Cintas Corporation,Industrials,Specialty Business Services,203.79,160.31,218.6,27.13,-6.78,1.02,41.51,81550557184.0,2026-08-24T09:32:02.614503+00:00
+2026-08-21,CLX,Clorox Company (The),Consumer Defensive,Household & Personal Products,106.69,83.72,125.83,27.43,-15.21,4.69,22.18,12902129664.0,2026-08-24T09:32:00.872038+00:00
+2026-08-21,DOV,Dover Corporation,Industrials,Specialty Industrial Machinery,201.92,157.78,236.42,27.98,-14.59,1.04,24.39,27194630144.0,2026-08-24T09:32:03.241884+00:00
+2026-08-21,MDT,Medtronic plc.,Healthcare,Medical Devices,93.35,72.65,103.76,28.48,-10.04,3.09,25.03,119486201856.0,2026-08-24T09:32:12.956127+00:00
+2026-08-21,MMM,3M Company,Industrials,Conglomerates,178.96,138.62,184.9,29.1,-3.21,1.74,31.73,92293693440.0,2026-08-24T09:32:14.176574+00:00
+2026-08-21,EMR,Emerson Electric Company,Industrials,Specialty Industrial Machinery,157.26,121.73,165.79,29.18,-5.14,1.41,34.34,87719624704.0,2026-08-24T09:32:03.839734+00:00
+2026-08-21,CB,Chubb Limited,Financial Services,Insurance - Property & Casualty,340.99,263.7,365.91,29.31,-6.81,1.2,12.08,131553894400.0,2026-08-24T09:31:59.046394+00:00
+2026-08-21,LMT,Lockheed Martin Corporation,Industrials,Aerospace & Defense,563.57,432.13,687.5,30.42,-18.03,2.45,20.79,130066743296.0,2026-08-24T09:32:10.503093+00:00
+2026-08-21,TROW,"T. Rowe Price Group, Inc.",Financial Services,Asset Management,111.51,84.21,122.0,32.42,-8.6,4.66,11.2,23786852352.0,2026-08-24T09:32:24.979029+00:00
+2026-08-21,FRT,Federal Realty Investment Trust,Real Estate,REIT - Retail,116.74,87.27,128.21,33.77,-8.95,3.97,23.58,10205216768.0,2026-08-24T09:32:04.978364+00:00
+2026-08-21,ROP,"Roper Technologies, Inc.",Technology,Software - Application,411.79,305.19,533.52,34.93,-22.82,88.0,17.15,40726392832.0,2026-08-24T09:32:19.753125+00:00
+2026-08-21,APD,"Air Products and Chemicals, Inc",Basic Materials,Specialty Chemicals,305.1,224.64,314.87,35.82,-3.1,2.37,,67941359616.0,2026-08-24T09:31:56.690709+00:00
+2026-08-21,BRO,"Brown & Brown, Inc.",Financial Services,Insurance Brokers,72.92,53.69,96.79,35.83,-24.66,91.0,23.3,24399788032.0,2026-08-24T09:31:57.885639+00:00
+2026-08-21,KO,Coca-Cola Company (The),Consumer Defensive,Beverages - Non-Alcoholic,91.1,64.04,91.87,42.26,-0.84,2.33,27.36,391962198016.0,2026-08-24T09:32:09.885861+00:00
+2026-08-21,TMO,Thermo Fisher Scientific Inc,Healthcare,Diagnostics & Research,629.27,434.83,642.71,44.71,-2.09,30.0,33.9,232670887936.0,2026-08-24T09:32:24.398372+00:00
+2026-08-21,GPC,Genuine Parts Company,Consumer Cyclical,Auto Parts,133.96,89.8,148.58,49.17,-9.84,3.17,535.84,18467694592.0,2026-08-24T09:32:06.156419+00:00
+2026-08-21,ADP,"Automatic Data Processing, Inc.",Technology,Software - Application,280.81,186.74,300.55,50.37,-6.57,2.42,25.64,111555354624.0,2026-08-24T09:31:54.928014+00:00
+2026-08-21,NDSN,Nordson Corporation,Industrials,Specialty Industrial Machinery,332.24,217.21,338.55,52.96,-1.86,99.0,33.66,18511730688.0,2026-08-24T09:32:16.663181+00:00
+2026-08-21,CMI,Cummins Inc.,Industrials,Specialty Industrial Machinery,587.68,383.91,735.02,53.08,-20.05,1.5,30.03,80902660096.0,2026-08-24T09:32:01.573221+00:00
+2026-08-21,BDX,"Becton, Dickinson and Company",Healthcare,Medical Instruments & Supplies,192.0,125.21,192.3,53.35,-0.16,2.19,33.22,52298268672.0,2026-08-24T09:31:57.305728+00:00
+2026-08-21,WST,"West Pharmaceutical Services, I",Healthcare,Medical Instruments & Supplies,353.08,223.52,385.75,57.97,-8.47,25.0,45.27,24848273408.0,2026-08-24T09:32:27.403949+00:00
+2026-08-21,JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers - General,270.24,170.35,276.47,58.64,-2.25,1.98,31.35,651250958336.0,2026-08-24T09:32:08.675818+00:00
+2026-08-21,SWK,"Stanley Black & Decker, Inc.",Industrials,Tools & Accessories,100.02,59.87,104.68,67.06,-4.45,3.36,24.45,15104684032.0,2026-08-24T09:32:22.063477+00:00
+2026-08-21,TXN,Texas Instruments Incorporated,Technology,Semiconductors,264.36,150.2,332.33,76.0,-20.45,2.15,40.18,241426137088.0,2026-08-24T09:32:25.675183+00:00
+2026-08-21,NUE,Nucor Corporation,Basic Materials,Steel,243.63,130.11,280.11,87.25,-13.02,92.0,19.46,55273721856.0,2026-08-24T09:32:17.275856+00:00
+2026-08-21,HRB,"H&R Block, Inc.",Consumer Cyclical,Personal Services,53.68,27.48,58.67,95.33,-8.51,3.43,9.43,6616914432.0,2026-08-24T09:32:06.807014+00:00
+2026-08-21,CAT,"Caterpillar, Inc.",Industrials,Farm & Heavy Construction Machinery,827.9,406.86,1071.47,103.49,-22.73,79.0,35.72,380564832256.0,2026-08-24T09:31:58.486778+00:00
+2026-08-21,TGT,Target Corporation,Consumer Defensive,Discount Stores,165.44,81.2,165.48,103.73,-0.02,2.8,17.14,,2026-08-24T09:32:23.245493+00:00
